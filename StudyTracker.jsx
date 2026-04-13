@@ -134,7 +134,7 @@ const StudyTracker = () => {
       <main className="task-list-container">
         <ul className="task-list">
           {tasks.length === 0 ? (
-            <p className="empty-state">Belum ada tugas. Waktunya bersantai! ☕</p>
+            <p className="empty-state">Belum ada tugas 😊</p>
           ) : (
             tasks.map(task => (
               <li key={task.id} className={`task-item ${getDeadlineStatus(task.deadline, task.completed)}`}>

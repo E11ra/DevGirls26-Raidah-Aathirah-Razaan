@@ -3,10 +3,10 @@
 Aplikasi pengelola tugas kuliah berbasis web yang dirancang untuk membantu mahasiswa mengatur prioritas belajar, memantau tenggat waktu (deadline), dan melihat ringkasan produktivitas harian secara real-time.
 
 ## ✨ Fitur Utama
-- **Manajemen Tugas:** Tambah, tandai selesai, dan hapus tugas kuliah dengan mudah.
-- **Sistem Deadline:** Input tanggal tenggat waktu untuk setiap tugas.
+- **Manajemen Tugas:** Menambah, menandai selesai, dan menghapus tugas kuliah dengan mudah.
+- **Sistem Deadline:** Menginput tanggal tenggat waktu untuk setiap tugas.
 - **Visual Reminder:** Indikator warna otomatis (Kuning untuk hari ini, Merah untuk terlambat).
-- **Ringkasan Statistik:** Pantau jumlah total tugas, tugas mendesak, dan tugas yang sudah selesai.
+- **Ringkasan Statistik:** Memantau jumlah total tugas, tugas mendesak, dan tugas yang sudah selesai.
 - **Penyimpanan Lokal:** Menggunakan *Local Storage* browser sehingga data tetap tersimpan meskipun halaman di-refresh.
 
 ## 🛠️ Teknologi yang Digunakan
