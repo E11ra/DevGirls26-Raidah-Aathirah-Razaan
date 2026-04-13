@@ -25,4 +25,4 @@ Proyek ini memperhatikan prinsip desain inklusif:
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/E11ra/study-tracker-web.git](https://github.com/E11ra/study-tracker-web.git)
+   git clone [https://github.com/E11ra/DevGirls26-Raidah-Aathirah-Razaan.git](https://github.com/E11ra/DevGirls26-Raidah-Aathirah-Razaan.git) 
